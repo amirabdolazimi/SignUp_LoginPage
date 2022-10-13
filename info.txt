@@ -1,0 +1,16 @@
+Welcome to my Login Project
+~~~
+i used a JSON-SERVER for saved and get User data.
+Enter this commend in your VScode Terminal to start json sever :
+json-server --watch data/db.json --port 3001
+you should start JSON-SERVER to Signup in form and get User data in Login Page.
+~~~
+In this project, I have included all validation conditions in the forms.
+~~~
+#Technologies : 
+ReactJS
+formik
+axios
+~~~
+#Packages :
+Yup

@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Amirhossein",
+      "email": "amirbloody13@gmail.com",
+      "gender": "0",
+      "password": "Amir!@34",
+      "phoneNumber": "09108217850",
+      "passwordConfirm": "Amir!@34",
+      "nationality": "GER",
+      "intrests": [
+        "React.js"
+      ],
+      "terms": true,
+      "id": 1
+    }
+  ]
+}
